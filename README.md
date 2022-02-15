@@ -9,7 +9,7 @@ Assignments in Week N are due by 11pm on the night before meeting for Week N+1 (
 | W01  | 1/24     | R vs R Shiny Intro reactivity                     | Wick 1-3; [Norman Ch1](https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph003885337)    |                            |
 | W02  | 1/31     | Server & Advanced Reactivity; HCD                 | Wick 6, 9-10             | Assignment 1               |
 | W03  | 2/7      | UI Shiny Skins Dashboards                         | Wick 7-8; [Tversky (2011)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1756-8765.2010.01113.x) |                            |
-| W04  | 2/14     | Organization Modules & functionalizing Deployment | Wick 5, 19               | Assignment 2               |
+| W04  | 2/14     | Organization Modules & functionalizing Deployment | R4DS ch20                | Assignment 2               |
 |      | 2/21     | Presidents Day                                    |                          | Code Review 1              |
 | W05  | 2/28     | UX                                                | TBD                      |                            |
 | W06  | 3/7      | UX                                                |                          | UX Assignment              |
